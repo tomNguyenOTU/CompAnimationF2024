@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Lab1.sln"
+    "dotnet.defaultSolution": "AnimationUnity.sln"
 }
